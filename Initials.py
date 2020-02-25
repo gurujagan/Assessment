@@ -1,0 +1,5 @@
+print("To get Initials of Firstname, Middlename, Lastname")
+Fname=input("Enter the First Name \t")
+Mname=input("Enter the Middle Name \t")
+Lname=input("Enter the Last name \t")
+print("Your Initials are ",Fname[0],Mname[0],Lname[0])
