@@ -1,0 +1,5 @@
+First_number=int(input("Enter the Number :\t"))
+Second_number=int(input("Enter the Number :\t"))
+print("The sum of two number is",First_number + Second_number)
+print("The subtract of two number is",First_number - Second_number)
+print("The product of two number is",First_number * Second_number)
